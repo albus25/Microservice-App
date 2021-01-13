@@ -1,0 +1,17 @@
+com/mycompany/studentmp/entity/Tbluser.class
+com/mycompany/studentmp/config/Producers.class
+com/mycompany/studentmp/config/BootStrap.class
+com/mycompany/studentmp/config/CrossOriginResourceSharingFilter.class
+com/mycompany/studentmp/service/HealthCheckService.class
+com/mycompany/studentmp/entity/Tblcountry_.class
+com/mycompany/studentmp/service/ExampleService.class
+com/mycompany/studentmp/entity/Tbluser_.class
+com/mycompany/studentmp/entity/Tblcity.class
+com/mycompany/studentmp/model/StudentModel.class
+com/mycompany/studentmp/entity/Tblcity_.class
+com/mycompany/studentmp/entity/Tblstate.class
+com/mycompany/studentmp/entity/Tblcountry.class
+com/mycompany/studentmp/service/StudentResource.class
+com/mycompany/studentmp/entity/Tblstudent.class
+com/mycompany/studentmp/entity/Tblstate_.class
+com/mycompany/studentmp/entity/Tblstudent_.class
