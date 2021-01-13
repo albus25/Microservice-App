@@ -1,0 +1,15 @@
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/service/package-info.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/service/HealthCheckService.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/service/StudentClient.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/entity/Tblstudent.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/config/BootStrap.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/config/CrossOriginResourceSharingFilter.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/entity/Tbluser.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/model/UserModel.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/service/UserResource.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/service/ExampleService.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/config/Producers.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/service/RawToken.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/entity/Tblstate.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/entity/Tblcountry.java
+/root/NetBeansProjects/UserMP/src/main/java/com/mycompany/usermp/entity/Tblcity.java
