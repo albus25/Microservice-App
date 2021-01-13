@@ -1,0 +1,15 @@
+servlet/LogoutServlet.class
+servlet/IndexServlet.class
+com/mycompany/hogwarts/service/HogwartsClient.class
+token/GenerateToken.class
+auth/HogwartsAuthenticationMechanism.class
+com/mycompany/hogwarts/service/HealthCheckService.class
+servlet/LoginServlet.class
+project/Project.class
+com/mycompany/hogwarts/config/CrossOriginResourceSharingFilter.class
+com/mycompany/hogwarts/config/Producers.class
+com/mycompany/hogwarts/service/ExampleService.class
+com/mycompany/hogwarts/config/BootStrap.class
+project/MyCredentials.class
+token/MPJWTToken.class
+servlet/AllUsers.class
